@@ -1,0 +1,14 @@
+#nikoh{
+	font-family: ani;
+	background-color: gray;
+	color: white;
+	border-radius: 6px;
+	text-align: center;
+	padding: 2px;
+
+}
+body{
+	background-image: url(1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%
+}
